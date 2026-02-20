@@ -2214,27 +2214,7 @@ This project wouldn't exist without these amazing technologies and communities:
 
 ---
 
-## Support & Community
 
-**Need help?**
-- 💬 [GitHub Discussions](https://github.com/IBJunior/fullstack-langgraph-nextjs-agent/discussions) - Ask questions, share ideas
-- 🐛 [GitHub Issues](https://github.com/IBJunior/fullstack-langgraph-nextjs-agent/issues) - Report bugs, request features
-- 📧 Email: [your-email@example.com] - Direct support
-
-**Stay updated**:
-- ⭐ Star this repo to get notifications
-- 👀 Watch releases for new versions
-- 🐦 Follow [@YourTwitter] for updates
-
----
-
-<div align="center">
-
-  **Ready to build your next AI agent?**
-
-  [Get Started](#quick-start) • [View Demo](https://your-demo-url.com) • [Join Community](https://github.com/IBJunior/fullstack-langgraph-nextjs-agent/discussions)
-
-  ---
 
   Made with ❤️ by the open source community
 
