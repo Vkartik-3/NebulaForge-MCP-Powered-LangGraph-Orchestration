@@ -187,7 +187,7 @@ Before starting, ensure you have:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/IBJunior/fullstack-langgraph-nextjs-agent.git
+git clone 
 cd fullstack-langgraph-nextjs-agent
 
 # 2. Install dependencies
